@@ -1,0 +1,6 @@
+{
+  "project_name": "Rest API",
+  "app_name": "Your Application",
+  "app_description": "Flask Application, created using cookiecutter template",
+  "app_slug": "{{ cookiecutter.application_name.lower().replace(' ', '_').replace('-', '_') }}",
+}
